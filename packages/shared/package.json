@@ -1,0 +1,9 @@
+{
+  "name": "@easy-code/shared",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "private": true,
+  "author": "pengj<peng.j.1995@gmail.com>",
+  "license": "ISC"
+}

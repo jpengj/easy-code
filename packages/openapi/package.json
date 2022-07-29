@@ -1,0 +1,15 @@
+{
+  "name": "@easy-code/openapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "private": false,
+  "author": "pengj<peng.j.1995@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "openapi3-ts": "^2.0.2",
+    "@easy-code/gen": "workspace",
+    "@easy-code/shared": "workspace",
+    "node-fetch": "~2"
+  }
+}

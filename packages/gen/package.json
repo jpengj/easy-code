@@ -1,0 +1,12 @@
+{
+  "name": "@easy-code/gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "private": false,
+  "author": "pengj<peng.j.1995@gmail.com>",
+  "license": "ISC",
+  "peerDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
